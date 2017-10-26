@@ -10,6 +10,22 @@
   @include box-sizing(border-box);
 }
 
+/*font
+font-family: $georgia; 20px, 24px, #00456e - weight 900;
+font-family: $georgia; 22px, 24px, #00456e - weight 900;
+font-family: $georgia; 2px, 24px, #00456e - weight 900;
+
+
+font-family: $georgia; 16px, 20px, color $almost-black - weight 400;
+font-family: $georgia; 14px, 18px, color $almost-black;
+
+font-family: $helvetica;
+*/
+
+body {
+  background-color: lightgrey;
+}
+
 
 $aqua: #52C6DD;
 $light-navy: #095787;
